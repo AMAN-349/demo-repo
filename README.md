@@ -1,3 +1,3 @@
-#Demo
+# Demo
 
-Some decription...today we learn github from codecamp.org
+Some decription...today we learn github from codecamp.org!
